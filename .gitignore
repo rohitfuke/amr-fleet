@@ -1,7 +1,7 @@
 # Python cache
 __pycache__/
 *.py[cod]
-*.pyo
+*$py.class
 *.pyd
 .Python
 
@@ -9,6 +9,7 @@ __pycache__/
 venv/
 env/
 .env
+.venv/
 
 # Logs
 *.log
